@@ -1,1 +1,1 @@
-# yfx-contract-v1-core
+# YFX Contract BSC V1
