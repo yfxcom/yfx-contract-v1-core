@@ -1,0 +1,12 @@
+{
+  "name": "yfx-contract-v1-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "devDependencies": {
+    "truffle": "^5.2.6",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "author": "",
+  "license": "ISC"
+}
