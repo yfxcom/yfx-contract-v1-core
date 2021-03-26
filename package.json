@@ -1,0 +1,15 @@
+{
+  "name": "yfx-contract-v1-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "truffle": "^5.2.6",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}

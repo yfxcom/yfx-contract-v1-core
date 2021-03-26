@@ -1,1 +1,1 @@
-# yfx-contract-v1-core
+# YFX Contract Heco V1
