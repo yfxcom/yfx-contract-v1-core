@@ -1,0 +1,14 @@
+{
+  "name": "yfx-contract-v1-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tronbox": "^2.7.18"
+  }
+}
