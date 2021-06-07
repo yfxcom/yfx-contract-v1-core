@@ -24,8 +24,10 @@ This repository contains the core smart contracts for the YFX Perpetual Contract
 |Market.sol| Calculate the orders| open, close, closeCancel, priceToCloseCancel, priceToOpen...|
 
 
-##QuickStart
+## QuickStart
+
 truffle compile
+
 truffle migrate --network bsc_mainnet
 
 
